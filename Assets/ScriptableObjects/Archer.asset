@@ -17,6 +17,6 @@ MonoBehaviour:
   strength: 15
   defense: 10
   intelligence: 15
-  movementCase: 3
+  movementCase: 2
   precision: 1
   Description: 
